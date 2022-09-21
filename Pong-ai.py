@@ -90,7 +90,7 @@ def main():
             except:
                 print("The level of difficulty must be a number, please enter it again. ")
         
-
+    time.sleep(5)
     #Main loop of the game
     while True:
 
